@@ -1,4 +1,4 @@
-<link href="https://github.com/7788wangzi/markdown/blob/master/my.css" rel="stylesheet"></link>
+<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
 
 ####七宝老街
 >名声在外客入流，归来唯念臭豆腐。
